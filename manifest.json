@@ -1,6 +1,6 @@
 {
   "name": "Packers.css",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "manifest_version": 2,
   "description": "A custom user stylesheet which gently alters a webpage to a Green Bay Packers theme.",
   "homepage_url": "https://packers.github.io",
