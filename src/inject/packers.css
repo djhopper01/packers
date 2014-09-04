@@ -1,4 +1,17 @@
 ._4f7n {
   background-color: #20342B !important;
   background-image: none !important;
+
+  border-bottom-color: #ffc20e !important;
+  border-bottom-width: 4px !important;
+}
+
+.uiContextualLayerParent {
+  padding-top: 8px;
+}
+
+.jewelButton,
+._59fc,
+._1xn5 {
+  -webkit-filter: brightness(2.3) hue-rotate(180deg);
 }
