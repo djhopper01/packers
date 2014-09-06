@@ -6,6 +6,7 @@ theme.
 ## Supported Websites
 
 - Facebook
+- GitHub
 
 ## How To Use
 
@@ -15,8 +16,3 @@ theme.
 - Goto chrome://extensions and click 'Load unpacked extension...'
 
 At a later date, this extension will be in the Chrome Web Store.
-
-### Mozilla Firefox
-
-- Coming soon...
-
