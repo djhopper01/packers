@@ -15,14 +15,7 @@
     "https://*/*"
   ],
   "content_scripts": [
-    {
-      "matches": [
-        "https://www.facebook.com/*",
-        "https://github.com/*"
-      ],
-      "css": [
-        "src/inject/packers.css"
-      ]
-    }
+    { "matches": ["https://www.facebook.com/*"], "css": ["src/inject/facebook.css"] },
+    { "matches": ["https://github.com/*"],       "css": ["src/inject/github.css"]   }
   ]
 }

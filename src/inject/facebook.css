@@ -1,6 +1,6 @@
 /****************************
 
-Packers.css v0.2.0
+Packers.css
 
 A custom user stylesheet which gently alters a webpage to a Green Bay Packers theme.
 
@@ -29,27 +29,4 @@ Yellow: #ffc20e
 ._59fc,
 ._1xn5 {
   -webkit-filter: brightness(2.3) hue-rotate(180deg);
-}
-
-/* GitHub */
-
-.header {
-  background-color: #20342B !important;
-
-  border-bottom-color: #ffc20e !important;
-  border-bottom-width: 4px !important;
-}
-
-.header-logo-invertocat,
-.header-nav-link {
-  color: #ffc20e !important;
-}
-
-.header-nav-link {
-  font-weight: 300 !important;
-}
-
-.header-logo-invertocat:hover,
-.header-nav-link:hover {
-  color: #ffffff !important;
 }
