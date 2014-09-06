@@ -1,3 +1,18 @@
+/****************************
+
+Packers.css v0.1.0
+
+A custom user stylesheet which gently alters a webpage to a Green Bay Packers theme.
+
+Colors -
+
+Green: #20342B
+Yellow: #ffc20e
+
+****************************/
+
+/* Facebook */
+
 ._4f7n {
   background-color: #20342B !important;
   background-image: none !important;
@@ -14,4 +29,27 @@
 ._59fc,
 ._1xn5 {
   -webkit-filter: brightness(2.3) hue-rotate(180deg);
+}
+
+/* GitHub */
+
+.header {
+  background-color: #20342B !important;
+
+  border-bottom-color: #ffc20e !important;
+  border-bottom-width: 4px !important;
+}
+
+.header-logo-invertocat,
+.header-nav-link {
+  color: #ffc20e !important;
+}
+
+.header-nav-link {
+  font-weight: 300 !important;
+}
+
+.header-logo-invertocat:hover,
+.header-nav-link:hover {
+  color: #ffffff !important;
 }
