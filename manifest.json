@@ -16,6 +16,7 @@
   ],
   "content_scripts": [
     { "matches": ["https://www.facebook.com/*"], "css": ["src/inject/facebook.css"] },
-    { "matches": ["https://github.com/*"],       "css": ["src/inject/github.css"]   }
+    { "matches": ["https://github.com/*"],       "css": ["src/inject/github.css"]   },
+    { "matches": ["https://www.google.com/*"],   "css": ["src/inject/google.css"]   }
   ]
 }
