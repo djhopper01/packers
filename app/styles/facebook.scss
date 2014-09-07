@@ -1,0 +1,29 @@
+/****************************
+
+Packers.css
+
+A custom user stylesheet which gently alters a webpage to a Green Bay Packers theme.
+
+****************************/
+
+@import "common";
+
+/* Facebook */
+
+._4f7n {
+  background-color: $green !important;
+  background-image: none !important;
+
+  border-bottom-color: $yellow !important;
+  border-bottom-width: 4px !important;
+}
+
+.uiContextualLayerParent {
+  padding-top: 8px;
+}
+
+.jewelButton,
+._59fc,
+._1xn5 {
+  -webkit-filter: brightness(2.3) hue-rotate(180deg);
+}

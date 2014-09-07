@@ -1,0 +1,31 @@
+/****************************
+
+Packers.css
+
+A custom user stylesheet which gently alters a webpage to a Green Bay Packers theme.
+
+****************************/
+/* GitHub */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/github\.scss}line{font-family:\0000313}}
+.header {
+  background-color: #2a433a !important;
+  border-bottom-color: #ffc20e !important;
+  border-bottom-width: 4px !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/github\.scss}line{font-family:\0000320}}
+.header-logo-invertocat,
+.header-nav-link {
+  color: #ffc20e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/github\.scss}line{font-family:\0000325}}
+.header-nav-link {
+  font-weight: 300 !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/github\.scss}line{font-family:\0000329}}
+.header-logo-invertocat:hover,
+.header-nav-link:hover {
+  color: #ffffff !important;
+}

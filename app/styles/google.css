@@ -1,0 +1,36 @@
+/****************************
+
+Packers.css
+
+A custom user stylesheet which gently alters a webpage to a Green Bay Packers theme.
+
+****************************/
+/* Google */
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/google\.scss}line{font-family:\0000313}}
+.gbqfqw.gbqfqw,
+.gbqfqw.gbqfqwf.gbqfqwf {
+  border-color: #ffc20e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/google\.scss}line{font-family:\0000318}}
+.gbqfb {
+  background: #ffc20e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/google\.scss}line{font-family:\0000322}}
+.gb_Lb {
+  background-color: rgba(42, 67, 58, 0.9) !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/google\.scss}line{font-family:\0000326}}
+a.gb_d,
+a.gb_A,
+.gb_Fa,
+.hdtb_mitem.hdtb_msel {
+  color: #ffc20e !important;
+}
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/google\.scss}line{font-family:\0000333}}
+.hdtb_mitem.hdtb_msel {
+  border-bottom-color: #ffc20e !important;
+}

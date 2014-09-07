@@ -4,27 +4,22 @@ Packers.css
 
 A custom user stylesheet which gently alters a webpage to a Green Bay Packers theme.
 
-Colors -
-
-Green: #2a433a
-Yellow: #ffc20e
-
 ****************************/
-
 /* Facebook */
-
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/facebook\.scss}line{font-family:\0000313}}
 ._4f7n {
   background-color: #2a433a !important;
   background-image: none !important;
-
   border-bottom-color: #ffc20e !important;
   border-bottom-width: 4px !important;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/facebook\.scss}line{font-family:\0000321}}
 .uiContextualLayerParent {
   padding-top: 8px;
 }
 
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/derek\/Projects\/packers\.css\/app\/styles\/facebook\.scss}line{font-family:\0000325}}
 .jewelButton,
 ._59fc,
 ._1xn5 {
